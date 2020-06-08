@@ -1,0 +1,14 @@
+title: William F. Washburn's memorial site
+description: A website to honor the life of William F. Washburn
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.babel.js
+  - LICENSE.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - src
+  - tailwind.config.js
